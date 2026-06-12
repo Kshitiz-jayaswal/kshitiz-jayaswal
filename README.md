@@ -1,93 +1,18 @@
-[README.md](https://github.com/user-attachments/files/28865258/README.md)
-<div align="center">
+# 💫 About Me:
+Hello! I'm Kshitiz Jayaswal, a Computer Science student with a strong passion for technology, data, and problem-solving.<br>I am currently focused on developing my skills in Python, SQL, Data Structures & Algorithms, Data Analysis, and Machine Learning. My goal is to build a successful career as a Data Scientist, using data to uncover insights, solve real-world problems, and support informed decision-making.<br>I enjoy learning new technologies, working on practical projects, and continuously improving my technical and analytical abilities. I believe that consistency, curiosity, and hands-on experience are the keys to growth in the field of data science.<br>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kshitiz+Jayaswal+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Kaggle+Enthusiast+%7C+AI+Explorer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitiz-jayaswal-24993b379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitizjayaswal72@gmail.com) 
 
----
-
-### 🧠 About Me
-
-```python
-kshitiz = {
-    "name"       : "Kshitiz Jayaswal",
-    "role"       : "Data Scientist & ML Engineer",
-    "languages"  : ["Python", "R", "SQL"],
-    "focus"      : ["Machine Learning", "Deep Learning", "NLP", "Data Storytelling"],
-    "competing"  : "Kaggle — always chasing that gold 🥇",
-    "building"   : "Cool ML side projects that solve real problems",
-    "motto"      : "Learn it. Build it. Share it."
-}
-```
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Kshitiz-jayaswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Kshitiz-jayaswal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kshitiz-jayaswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Kshitiz-jayaswal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-</div>
-
----
-
-### ⚡ Fun Facts
-
-- 🏆 I compete on **Kaggle** — because nothing sharpens your skills like a real challenge
-- 🔬 I love turning messy, raw data into **clean, actionable insights**
-- 🤝 Always open to **collaborating** on ML research or interesting open-source projects
-- 📚 I actively **learn and share** — blogs, notebooks, and discussions
-- 🌙 My best ideas come at **2 AM** debugging a model that was *almost* perfect
-- ☕ Fuelled by curiosity and a dangerous amount of coffee
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kshitiz-jayaswal&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=6E40C9&icon_color=6E40C9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitiz-jayaswal&layout=compact&theme=default&hide_border=true&title_color=6E40C9" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kshitiz-jayaswal&theme=default&hide_border=true&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/Kshitiz-jayaswal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kshitiz-jayaswal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kshitiz-jayaswal)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kshitiz-jayaswal&style=flat-square&color=6E40C9&label=Profile+Views" />
-</div>
-
-<div align="center">
-  <sub>⭐ If you find my work useful, consider giving it a star — it means a lot!</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
