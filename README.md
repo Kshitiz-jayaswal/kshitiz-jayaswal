@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Kshitiz Jayaswal,a Computer Science student with a strong passion for technology, data, and problem-solving.<br>I am currently focused on developing my skills in Python, SQL, Data Structures & Algorithms, Data Analysis, and Machine Learning. My goal is to build a successful career as a Data Scientist, using data to uncover insights, solve real-world problems, and support informed decision-making.<br>I enjoy learning new technologies, working on practical projects, and continuously improving my technical and analytical abilities. I believe that consistency,curiosity, and hands-on experience are the keys to growth in the field of data science.<br>
+Hello! I'm Kshitiz Jayaswal,a Computer Science student with a strong passion for technology, data, and problem-solving.<br>I am currently focused on developing my skills in Python, SQL, Data Structures & Algorithms, Data Analysis, and Machine Learning. My goal is to build a successful career as a Data Scientist, using data to uncover insights, solve real-world problems, and support informed decision-making.<br>I enjoy learning new technologies, working on practical projects, and continuously improving my technical and analytical abilities. I believe that consistency, curiosity, and hands-on experience are the keys to growth in the field of data science.<br>
 
 
 ## 🌐 Socials:
