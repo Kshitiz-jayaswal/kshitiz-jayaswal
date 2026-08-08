@@ -1,18 +1,177 @@
-# 💫 About Me:
-Hello! I'm Kshitiz Jayaswal ,a Computer Science student with a strong passion for technology, data, and problem-solving.<br>I am currently focused on developing my skills in Python, SQL, Data Structures & Algorithms, Data Analysis, and Machine Learning. My goal is to build a successful career as a Data Scientist, using data to uncover insights, solve real-world problems, and support informed decision-making.<br>I enjoy learning new technologies, working on practical projects, and continuously improving my technical and analytical abilities. I believe that consistency, curiosity, and hands-on experience are the keys to growth in the field of data science.<br>
+<div align="center">
+
+# Kshitiz Jayaswal
+
+### Aspiring Data Scientist | Machine Learning Enthusiast | Computer Science Student
+
+*Building data-driven solutions through Python, analytics, and machine learning.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitizjayaswal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kshitizjayaswal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitiz.jayaswal@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kshitizjayaswal.dev)
+
+</div>
+
+<br/>
+
+## About Me
+
+I am a Computer Science student with a strong interest in **Data Science, Machine Learning, Data Analytics, and Artificial Intelligence**. I enjoy working with data, discovering meaningful insights, and developing intelligent solutions to real-world problems.
+
+I am continuously strengthening my skills in **Python, SQL, Statistics, Data Analysis, Data Visualization, and Machine Learning** through hands-on projects and practical learning.
+
+<br/>
+
+## Core Technical Skills
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Data Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Machine Learning**
+
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-4B8BBE?style=flat-square)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-4B8BBE?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-4B8BBE?style=flat-square)
+![Classification](https://img.shields.io/badge/Classification-4B8BBE?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-4B8BBE?style=flat-square)
+
+**Data Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-30638E?style=flat-square)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Data Analysis & Insights
+Analyze real-world datasets to uncover patterns and extract actionable insights.
+
+**Tech:** Python · Pandas · NumPy · Matplotlib
+
+[Repository](https://github.com/kshitizjayaswal/data-analysis-insights) · [Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### Machine Learning Prediction System
+End-to-end ML pipeline to build, train, and evaluate models for real-world prediction problems.
+
+**Tech:** Python · Scikit-learn · Pandas · NumPy
+
+[Repository](https://github.com/kshitizjayaswal/ml-prediction-system) · [Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Tableau Analytics Dashboard
+Interactive dashboards designed to support data-driven decision making.
+
+**Tech:** Tableau · SQL · Data Modeling
+
+[Repository](https://github.com/kshitizjayaswal/tableau-analytics-dashboard) · [Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### AI-Based Project
+An AI/ML-driven solution designed to solve a practical, real-world problem.
+
+**Tech:** Python · Scikit-learn · NumPy
+
+[Repository](https://github.com/kshitizjayaswal/ai-based-project) · [Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Hackathon Project
+A collaborative project built under time constraints, showcasing problem-solving and teamwork.
+
+**Tech:** Python · Data Analysis · Machine Learning
+
+[Repository](https://github.com/kshitizjayaswal/hackathon-project) · [Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Current Focus
+
+- 🎯 Strengthening Python and SQL
+- 📊 Learning advanced data analysis
+- 📈 Improving statistics and visualization
+- 🤖 Building Machine Learning models
+- 🧠 Exploring Artificial Intelligence
+- 💻 Developing real-world Data Science projects
+
+<br/>
+
+## Data Science Roadmap
+
+<div align="center">
+
+`Python` → `SQL` → `Statistics` → `NumPy` → `Pandas` → `Data Visualization` → `Machine Learning` → `Deep Learning` → `AI` → `Real-World Projects`
+
+</div>
+
+<br/>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kshitiz-jayaswal-24993b379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitizjayaswal72@gmail.com) 
+## Career Objective
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kshitiz-jayaswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Kshitiz-jayaswal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kshitiz-jayaswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+My goal is to become a professional Data Scientist and work on real-world problems using data, machine learning, and artificial intelligence. I aim to continuously improve my technical skills, build meaningful projects, contribute to open-source communities, and create data-driven solutions that have practical impact.
 
----
-[![](https://komarev.com/ghpvc/?username=Kshitiz-jayaswal&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitizjayaswal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kshitizjayaswal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitiz.jayaswal@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kshitizjayaswal.dev)
+
+<br/>
+
+*Thanks for visiting my profile!*
+
+</div>
